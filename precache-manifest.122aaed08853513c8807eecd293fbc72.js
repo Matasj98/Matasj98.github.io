@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a883d2ae08afc55fa04dcec40cadaabb",
+    "revision": "43ecff44c72dba7fee2847eb49b808aa",
     "url": "/index.html"
   },
   {
-    "revision": "44782054b0da377acafb",
-    "url": "/static/css/main.9646ae5f.chunk.css"
+    "revision": "5f044147a089b325732c",
+    "url": "/static/css/main.37fd5dd1.chunk.css"
   },
   {
     "revision": "7af65e9ab272baf3b296",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.f6887740.chunk.js.LICENSE"
   },
   {
-    "revision": "44782054b0da377acafb",
-    "url": "/static/js/main.f19aa2d1.chunk.js"
+    "revision": "5f044147a089b325732c",
+    "url": "/static/js/main.71f8269b.chunk.js"
   },
   {
     "revision": "1133f0bd4065383b7268",
@@ -118,6 +118,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fadd9c9566ccc46c6b0e73caca5860de",
     "url": "/static/media/react-original-wordmark.fadd9c95.svg"
+  },
+  {
+    "revision": "85772647236e76b8e772c14c092a28ac",
+    "url": "/static/media/redux.85772647.svg"
   },
   {
     "revision": "3191d3ab7da227907faaaf0aa3ff5e20",
