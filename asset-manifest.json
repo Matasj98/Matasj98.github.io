@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.9646ae5f.chunk.css",
-    "main.js": "/static/js/main.d367c71c.chunk.js",
-    "main.js.map": "/static/js/main.d367c71c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3f221cb0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3f221cb0.js.map",
-    "static/js/2.f6887740.chunk.js": "/static/js/2.f6887740.chunk.js",
-    "static/js/2.f6887740.chunk.js.map": "/static/js/2.f6887740.chunk.js.map",
+    "main.css": "/static/css/main.2f2627df.chunk.css",
+    "main.js": "/static/js/main.f8ef5821.chunk.js",
+    "main.js.map": "/static/js/main.f8ef5821.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8edb476e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8edb476e.js.map",
+    "static/js/2.ce4d0282.chunk.js": "/static/js/2.ce4d0282.chunk.js",
+    "static/js/2.ce4d0282.chunk.js.map": "/static/js/2.ce4d0282.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7ca541cd241dfd0cddd52f50510ceea2.js": "/precache-manifest.7ca541cd241dfd0cddd52f50510ceea2.js",
+    "precache-manifest.5a195089ff4fbd6041551bad4df700f6.js": "/precache-manifest.5a195089ff4fbd6041551bad4df700f6.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.9646ae5f.chunk.css.map": "/static/css/main.9646ae5f.chunk.css.map",
-    "static/js/2.f6887740.chunk.js.LICENSE": "/static/js/2.f6887740.chunk.js.LICENSE",
+    "static/css/main.2f2627df.chunk.css.map": "/static/css/main.2f2627df.chunk.css.map",
+    "static/js/2.ce4d0282.chunk.js.LICENSE.txt": "/static/js/2.ce4d0282.chunk.js.LICENSE.txt",
     "static/media/MyPicCroped.jpg": "/static/media/MyPicCroped.a8d4af5c.jpg",
     "static/media/babel-plain.svg": "/static/media/babel-plain.e031d9e2.svg",
     "static/media/blackJack.png": "/static/media/blackJack.10256279.png",
@@ -19,6 +19,7 @@
     "static/media/cca.png": "/static/media/cca.1b94503e.png",
     "static/media/cplusplus-plain.svg": "/static/media/cplusplus-plain.f7782ed8.svg",
     "static/media/css3-original-wordmark.svg": "/static/media/css3-original-wordmark.2ca88453.svg",
+    "static/media/gifBF.png": "/static/media/gifBF.d7b97e12.png",
     "static/media/git-original-wordmark.svg": "/static/media/git-original-wordmark.66e06c06.svg",
     "static/media/github-logo.svg": "/static/media/github-logo.76d344f0.svg",
     "static/media/github-original-wordmark.svg": "/static/media/github-original-wordmark.fff79394.svg",
@@ -44,9 +45,9 @@
     "static/media/windows8-original.svg": "/static/media/windows8-original.69aab947.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f221cb0.js",
-    "static/js/2.f6887740.chunk.js",
-    "static/css/main.9646ae5f.chunk.css",
-    "static/js/main.d367c71c.chunk.js"
+    "static/js/runtime-main.8edb476e.js",
+    "static/js/2.ce4d0282.chunk.js",
+    "static/css/main.2f2627df.chunk.css",
+    "static/js/main.f8ef5821.chunk.js"
   ]
 }
