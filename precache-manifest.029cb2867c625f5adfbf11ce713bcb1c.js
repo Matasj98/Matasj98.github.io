@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f3de5b52998f9cea12adbaf209d79a06",
+    "revision": "f5438a7b7d786e1bdb712187ec0a0a7c",
     "url": "/index.html"
   },
   {
-    "revision": "586eae2ce6f310d3f813",
+    "revision": "823f8e4c9674714c5eaf",
     "url": "/static/css/main.765f54b1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.9b7cdc05.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "586eae2ce6f310d3f813",
-    "url": "/static/js/main.a4026de7.chunk.js"
+    "revision": "823f8e4c9674714c5eaf",
+    "url": "/static/js/main.fd1b0fe3.chunk.js"
   },
   {
     "revision": "5284eec07972ace79c95",
@@ -33,7 +33,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "1025627962a7bc65bf439bf1c2d89417",
-    "url": "/static/media/blackjack.10256279.png"
+    "url": "/static/media/blackjackgame.10256279.png"
   },
   {
     "revision": "f7782ed8b8666246bfcc3f8fefc3b858",
@@ -61,7 +61,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "d7b97e12297db486604e68b9e5a7a1a4",
-    "url": "/static/media/gifbf.d7b97e12.png"
+    "url": "/static/media/gifbfwebsite.d7b97e12.png"
   },
   {
     "revision": "1f6e67861462a2192887cb9b19bf56d9",
